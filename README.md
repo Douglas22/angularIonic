@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ionic AWS Starter
 
 This Ionic starter comes with a pre-configured [AWS Mobile Hub](https://aws.amazon.com/mobile/) project set up to use Amazon DynamoDB, S3, Pinpoint, and Cognito.
@@ -177,3 +178,7 @@ Since your Ionic app is just a web app, it can be hosted as a static website in 
 npm run build
 awsmobile publish
 ```
+=======
+# angularIonic
+>>>>>>> e815f165a9950c3c11ad7fb3a77e8251f74a7d78
+git 
