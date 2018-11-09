@@ -1,0 +1,8 @@
+{
+  "name": "angularDV",
+  "app_id": "339450d5",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
